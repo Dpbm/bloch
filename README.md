@@ -55,6 +55,20 @@ state: [[0.38268343+0.92387953j]
 
 ```
 
+## Rotations Summary
+
+### RX
+
+The RX rotation is the same as fixing the vector from the origin to the fartest point in the X axis, then rotating everything around by some angle.
+
+### RY
+
+The RY rotation is the same as fixing the vector from the origin to the fartest point in the Y axis, then rotating everything around by some angle.
+
+### RZ
+
+the RZ rotation is the only one we can see physically, once it only applies a phase to a state. So, in this case, no visible rotation is done. 
+
 ## Setup
 
 For this experiment, you may start explore the Quirk simulator visting [algassert.com/quirk](https://algassert.com/quirk). Then, locally you need to install:
