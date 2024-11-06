@@ -1,5 +1,7 @@
 # BLOCH SPHERE ROTATIONS
 
+![Rotations video](./rotations.mp4)
+
 Since I started in quantum computing, Bloch sphere rotations were a big trouble to me. It was easy to get stuck, or simply don't understand what was happening.
 
 So, today I decided to test some rotations and understand it better.
@@ -37,6 +39,7 @@ For this experiment, you may start explore the Quirk simulator visiting [algasse
 
 * python 3.10
 * pip
+* ffmpeg
 
 install the dependencies:
 
@@ -48,4 +51,8 @@ after that, You're ready to run:
 
 ```bash
 python plots.py
+
+# and
+
+python animate.py
 ```
