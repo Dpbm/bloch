@@ -1,6 +1,10 @@
 # BLOCH SPHERE ROTATIONS
 
-![Rotations video](./rotations.mp4)
+
+https://github.com/user-attachments/assets/8e590dea-a3be-4980-ae6c-c86ab52ca006
+
+
+
 
 Since I started in quantum computing, Bloch sphere rotations were a big trouble to me. It was easy to get stuck, or simply don't understand what was happening.
 
